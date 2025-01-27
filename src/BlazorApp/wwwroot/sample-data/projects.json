@@ -5,9 +5,14 @@
     "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Razor Pages Store",
+    "description": "A Razor Pages online ordering system that enables users to place orders for a variety of goods. The application has common functionality i.e communicating with a database, working with cookies, forms and sending email.",
+    "url": "https://github.com/KariukiKungu/Mpishi"
+  },
+  {
+    "title": "MVC Kung'u Store",
+    "description": "My application, called Kung'u Store, will follow the classic approach taken by online stores everywhere. It's an online product catalog that customers can browse by category and page, a shopping cart where users can add and remove products, and a checkout where customers can enter their shipping details. It has an administration area that includes create, read, update, and delete (CRUD) facilities for managing the catalog, and It is password protected so that only logged-in administrators can make changes.",
+    "url": "https://github.com/KariukiKungu/Duka"
   },
   {
     "title": "My Resume Site",
